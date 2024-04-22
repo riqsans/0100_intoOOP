@@ -14,3 +14,11 @@ public: // akses modifier
 	}
 };
 
+
+class MataKuliah {
+private:
+	string kodeMk;
+	string namaMk;
+	int sks;
+};
+
