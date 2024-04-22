@@ -86,4 +86,8 @@ public:
 
 int main() {
 	bangunDatar pp; // deklarasi objbek pp dari class bangunDatar
+	pp.input();
+	pp.display();
+
+	return 0;
 }
