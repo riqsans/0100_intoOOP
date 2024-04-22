@@ -80,6 +80,6 @@ public:
 	void display() {
 		cout << "Panjangnya = " << panjang << endl;
 		cout << "Lebarnya = " << lebar << endl;
-
+		cout << "Luasnya = " << luas << endl;
 	}
 };
