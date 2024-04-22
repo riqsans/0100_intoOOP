@@ -83,3 +83,7 @@ public:
 		cout << "Luasnya = " << luas << endl;
 	}
 };
+
+int main() {
+	bangunDatar pp; // deklarasi objbek pp dari class bangunDatar
+}
