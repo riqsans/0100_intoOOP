@@ -78,6 +78,7 @@ public:
 	}
 
 	void display() {
+		cout << "Panjangnya = " << panjang << endl;
 
 	}
 };
